@@ -1,0 +1,20 @@
+
+---
+
+## 🎯 Rewards
+
+- Negative reward proportional to distance from goal  
+- Bonus reward when getting close to goal  
+- Large reward for reaching the goal  
+- Large penalty for collision  
+- Penalty for getting too close to obstacles  
+
+---
+
+## ⚙️ Installation
+
+Create and activate virtual environment:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
